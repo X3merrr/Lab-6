@@ -46,21 +46,21 @@ JavaScript — мультипарадигменный язык программ�
 20.	Сделайте селектор, который выберет все ссылки из id=test с классом www. Цвета состояний выберите самостоятельно.<br>
 21.	Сделайте селектор, который выберет все ссылки из class=eee с классом www. Цвета состояний выберите самостоятельно.<br>
 22.	Повторите страницу по данному по образцу:<br>
-<image src = "https://github.com/X3merrr/Lab-2/blob/main/Resh.PNG"></image><br>
+<image src = "https://github.com/X3merrr/Lab-6/blob/main/1.png"></image><br>
 23.	Повторите страницу по данному по образцу:<br>
-<image src = "https://github.com/X3merrr/Lab-2/blob/main/Resh.PNG"></image><br>
+<image src = "https://github.com/X3merrr/Lab-6/blob/main/2.png"></image><br>
 24.	Повторите страницу по данному по образцу:<br>
-<image src = "https://github.com/X3merrr/Lab-2/blob/main/Resh.PNG"></image><br>
+<image src = "https://github.com/X3merrr/Lab-6/blob/main/3.png"></image><br>
 25.	Повторите страницу по данному по образцу:<br>
-<image src = "https://github.com/X3merrr/Lab-2/blob/main/Resh.PNG"></image><br>
+<image src = "https://github.com/X3merrr/Lab-6/blob/main/4.png"></image><br>
 26.	Повторите страницу по данному по образцу:<br>
-<image src = "https://github.com/X3merrr/Lab-2/blob/main/Resh.PNG"></image><br>
+<image src = "https://github.com/X3merrr/Lab-6/blob/main/5.png"></image><br>
 27.	Повторите страницу по данному по образцу:<br>
-<image src = "https://github.com/X3merrr/Lab-2/blob/main/Resh.PNG"></image><br>
+<image src = "https://github.com/X3merrr/Lab-6/blob/main/6.png"></image><br>
  
 
 <h1 align = "center">Решение задач</h1>
-<image src = "https://github.com/X3merrr/Lab-2/blob/main/Resh.PNG"></image>
+<image src = "https://github.com/X3merrr/Lab-6/blob/main/Resh.PNG"></image>
 
 <h1 align = "center">Вывод</h1>
 <p>При выполнении этой лабораторной работы, я научился работать языком текстовой разметки HTML и CSS</p>
