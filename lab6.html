@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* Селекторы CSS */
+        div p {
+          color: red;
+        }
+    
+        div h2 {
+          color: blue;
+        }
+    
+        #test p {
+          color: green;
+        }
+    
+        #test h2 {
+          color: purple;
+        }
+    
+        .bbb {
+          color: orange;
+        }
+    
+        #test .bbb {
+          color: pink;
+        }
+    
+        p.bbb {
+          color: yellow;
+        }
+    
+        h2.bbb {
+          color: brown;
+        }
+    
+        #test p.bbb {
+          color: cyan;
+        }
+    
+        .bbb, .xxx {
+          color: black;
+        }
+    
+        p.bbb, h2.xxx {
+          color: gray;
+        }
+    
+        #test p.bbb, #test p.xxx {
+          color: white;
+        }
+    
+        .fff {
+          color: red;
+        }
+    
+        .fff p {
+          color: blue;
+        }
+    
+        p.fff {
+          color: green;
+        }
+    
+        .fff .bbb {
+          color: orange;
+        }
+    
+        .fff h2.bbb {
+          color: purple;
+        }
+    
+        #test a {
+          text-decoration: none;
+          color: red;
+        }
+    
+        #test a:link, #test a:visited {
+          text-decoration: none;
+          color: red;
+        }
+    
+        #test a:hover {
+          text-decoration: underline;
+          color: blue;
+        }
+    
+        .www:link, .www:visited {
+          text-decoration: underline;
+          color: blue;
+        }
+    
+        .www:hover {
+          text-decoration: none;
+        }
+    
+        #test .www {
+          color: green;
+        }
+    
+        #test .www:link {
+          text-decoration: none;
+          color: green;
+        }
+    
+        #test .www:visited {
+          text-decoration: underline;
+          color: purple;
+        }
+    
+        #test .www:hover {
+          text-decoration: underline;
+          color: orange;
+        }
+    
+        .eee .www {
+          color: pink;
+        }
+    
+        .eee .www:link {
+          text-decoration: underline;
+          color: pink;
+        }
+    
+        .eee .www:visited {
+          text-decoration: none;
+          color: brown;
+        }
+    
+        .eee .www:hover {
+          text-decoration: underline;
+          color: yellow;
+        }
+      </style>
+</head>
+<body>
+     <!-- Демонстрация селекторов -->
+  <div>
+    <p>Абзац внутри div</p>
+    <h2>Заголовок внутри div</h2>
+  </div>
+
+  <div id="test">
+    <p>Абзац внутри элемента с id=test</p>
+    <h2>Заголовок внутри элемента с id=test</h2>
+    <a href="#">Ссылка внутри элемента с id=test</a>
+  </div>
+
+  <div class="fff">
+    <p>Абзац внутри элемента с классом fff</p>
+    <h2 class="bbb">Заголовок с классом bbb внутри элемента с классом fff</h2>
+    <a href="#" class="www">Ссылка с классом www внутри элемента с классом fff</a>
+  </div>
+
+  <div class="eee">
+    <a href="#" class="www">Ссылка с классом www внутри элемента с классом eee</a>
+  </div>
+</body>
+</html>
