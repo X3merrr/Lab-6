@@ -65,7 +65,7 @@ JavaScript — мультипарадигменный язык программ�
 
 <image src = "https://github.com/X3merrr/Lab-6/blob/main/Kata1.PNG"></image><br>
 <image src = "https://github.com/X3merrr/Lab-6/blob/main/Kata2.PNG"></image><br>
-<image src = "https://github.com/X3merrr/Lab-6/blob/main/1.png"></image><br>
+<image src = "https://github.com/X3merrr/Lab-6/blob/main/Kata3.PNG"></image><br>
 <image src = "https://github.com/X3merrr/Lab-6/blob/main/Kata4.PNG"></image><br>
 <image src = "https://github.com/X3merrr/Lab-6/blob/main/Kata5.PNG"></image><br>
 <image src = "https://github.com/X3merrr/Lab-6/blob/main/Kata6.PNG"></image><br>
